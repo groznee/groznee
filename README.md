@@ -4,7 +4,7 @@
 
 Example of the material covered on Java SE 8 Programmer II exam:
 
-## **[Streams, functional interfaces, lambda and callables](java_se8_streams_demo.java).**
+## **[Streams, functional interfaces, lambda expressions and callables](java_se8_streams_demo.java).**
 
 
 
