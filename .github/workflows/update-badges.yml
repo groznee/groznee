@@ -10,4 +10,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
         with:
-          CREDLY_USER: ivan-milenkovic.d23915bc # optional, but default will use the same from github
+          CREDLY_USER: ivan-milenkovic # optional, but default will use the same from github
