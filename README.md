@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and computer science
 - 🌱 I’m currently learning Java and Python
 
-Example of the material covered on Java SE 8 Programmer II exam:
+Example of the material covered on the Oracle 1Z0-809 Java SE 8 Programmer II exam:
 
 ## [Streams, functional interfaces, lambda expressions and callables](java_se8_streams_demo.java).
 
