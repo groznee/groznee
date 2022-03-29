@@ -7,7 +7,7 @@ import java.lang.Math;
 
 public class java_se8_streams_demo {
 
-    public static void main(String[] args)  throws InterruptedException {
+    public static void main(String[] args) {
 		
 		
 		// simple demos using functional interfaces, lambda expressions, streams and concurrency
