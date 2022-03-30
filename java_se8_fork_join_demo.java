@@ -26,7 +26,7 @@ class ForkJoinSort extends RecursiveTask<List<Integer>> {
 			
 		// if the list is smaller than a treshold (49 in this case), sort it directly
 		
-				return nums.stream().sorted().collect(Collectors.toList());
+			return nums.stream().sorted().collect(Collectors.toList());
 				
 		} else {
 			
