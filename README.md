@@ -2,13 +2,14 @@
 - 👀 I’m interested in coding and computer science
 - 🌱 I’m currently learning Java and Python
 
-Example of the material covered on the Oracle 1Z0-809 Java SE 8 Programmer II exam:
+## Example of the material covered on the Oracle 1Z0-809 Java SE 8 Programmer II exam:
 
-## [Streams, functional interfaces, lambda expressions and callables](java_se8_streams_demo.java).
+### [Streams, functional interfaces, lambda expressions and Callables](java_se8_streams_demo.java)  
+### [Fork/Join framework, RecursiveTask](java_se8_fork_join_demo.java).
 
 
 
-Click on a badge below to show the certificate:
+## Click on a badge below for details of the certificate:
 
 
 <!--START_SECTION:badges-->
