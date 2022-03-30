@@ -4,7 +4,8 @@ import java.util.concurrent.*;
 
 /* a simple demo implementing the MergeSort alghorithm using Fork Join framework.
 It is written for demonstration purposes only, because the Fork Join overheads make  
-it no faster (in this particular case) than the sorted() method of a stream */
+it no faster (in this particular case) than the sorted() method of a stream #
+| https://github.com/groznee/ | */
 
 class ForkJoinSort extends RecursiveTask<List<Integer>> {
 	
