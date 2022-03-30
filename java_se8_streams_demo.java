@@ -11,7 +11,8 @@ public class java_se8_streams_demo {
 		
 		
 		// simple demos using functional interfaces, lambda expressions, streams and concurrency
-		// covered in the 1Z0-809 Oracle Java SE 8 exam
+		// covered in the 1Z0-809 Oracle Java SE 8 exam 
+	    	// | https://github.com/groznee/ |
 		
 		List<Integer> nums = IntStream.range(1, 50).boxed().collect(Collectors.toList());
 
