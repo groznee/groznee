@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @groznee
 - 👀 I’m interested in coding and computer science
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, Networks and Security
 
 ## Code examples of the material on the Oracle 1Z0-809 Java SE 8 Programmer II exam: <!-- omit in toc -->
 
@@ -9,12 +9,14 @@
 
 
 <!-- omit in toc -->
-## Click on a badge below for details of the certificate:
+## List of my certificates: 
+
+_* click on a badge for more info_
 
 
 <!--START_SECTION:badges-->
 
-| [![CompTIA A+ ce Certification](https://images.credly.com/size/170x170/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](https://www.credly.com/badges/b20b7b9e-4d89-4ade-8415-ae323c4b7246 "CompTIA A+ ce Certification") | 
+| [![CompTIA A+ ce Certification](https://images.credly.com/size/160x160/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](https://www.credly.com/badges/b20b7b9e-4d89-4ade-8415-ae323c4b7246 "CompTIA A+ ce Certification") | 
 | :---: |
 | _CompTIA A+_ |
 
