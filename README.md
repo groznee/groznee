@@ -16,9 +16,9 @@ _* click on a badge for more info_
 
 <!--START_SECTION:badges-->
 
-| [![CompTIA A+ ce Certification](https://images.credly.com/size/160x160/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](https://www.credly.com/badges/b20b7b9e-4d89-4ade-8415-ae323c4b7246 "CompTIA A+ ce Certification") | 
-| :---: |
-| _CompTIA A+_ |
+| [![CompTIA A+ ce Certification](https://images.credly.com/size/160x160/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](https://www.credly.com/badges/b20b7b9e-4d89-4ade-8415-ae323c4b7246 "CompTIA A+ ce Certification") | [![CompTIA Network+ ce Certification](https://images.credly.com/size/160x160/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png)](https://www.credly.com/badges/f715152c-3b53-4f16-8133-8f5d8c2fb20c "CompTIA Network+ ce Certification") | 
+| :---: | :---: |
+| _CompTIA A+_ | _CompTIA Network +_ |
 
 | [![Oracle Certified Professional, Java SE 8 Programmer II](https://images.credly.com/size/170x170/images/3e1a7290-fade-4be4-9bcd-1a7743294a81/Oracle_Professional_Badge__1_.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0A79ADD73499EED1668DD2414314094484A496D9224A0F0B4DB2F8702E593221 "Oracle Certified Professional, Java SE 8 Programmer II") | [![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/170x170/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png)](http://www.credly.com/badges/5ff274e2-3990-494f-89de-0a4f3668a77a "Oracle Certified Associate, Java SE 8 Programmer") | [![Oracle Certified Foundations Associate, Java](https://images.credly.com/size/170x170/images/aeada4ab-bd8f-4c3c-bf4a-a9f2f4e04dd2/02a_Java_Foundations_Associate.png)](http://www.credly.com/badges/8803d57d-fc98-4c3a-bb3a-e3b0248c27d8 "Oracle Certified Foundations Associate, Java") |
 | :---: | :---: | :---: |
