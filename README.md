@@ -2,7 +2,11 @@
 - 👀 I’m interested in coding and computer science
 - 🌱 I’m currently learning Java, Flutter, Networks and Security
 
-## Code examples of the material on the Oracle 1Z0-809 Java SE 8 Programmer II exam: <!-- omit in toc -->
+## Flutter projects <!-- omit in toc -->
+
+### [Ducksaver: a multi-platform game built in Flame](https://github.com/groznee/ducksaver)
+
+## Java coding exercise: Oracle 1Z0-809 Java SE 8 Programmer II : <!-- omit in toc -->
 
 ### [Streams, functional interfaces, lambda expressions and Callables](java_se8_streams_demo.java)  
 ### [Fork/Join framework, RecursiveTask](java_se8_fork_join_demo.java)
