@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and computer science
 - 🌱 I’m currently learning Java, Flutter, Networks and Security
 
-## Flutter projects <!-- omit in toc -->
+<h2>Flutter projects</h2>
 
 ### [Ducksaver: a multi-platform game built in Flame](https://github.com/groznee/ducksaver)
 
