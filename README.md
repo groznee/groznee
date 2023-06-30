@@ -2,18 +2,22 @@
 - 👀 I’m interested in coding and computer science
 - 🌱 I’m currently learning Java, Flutter, Networks and Security
 
-<h2>Flutter projects</h2>
+
+Flutter projects : <!-- omit in toc -->
+---------------------------------------
 
 ### [Ducksaver: a multi-platform game built in Flame](https://github.com/groznee/ducksaver)
 
-## Java coding exercise: Oracle 1Z0-809 Java SE 8 Programmer II : <!-- omit in toc -->
+Java coding exercise: Oracle 1Z0-809 Java SE 8 Programmer II : <!-- omit in toc -->
+-----------------------------------------------------------------------------------
 
 ### [Streams, functional interfaces, lambda expressions and Callables](java_se8_streams_demo.java)  
 ### [Fork/Join framework, RecursiveTask](java_se8_fork_join_demo.java)
 
 
 <!-- omit in toc -->
-## List of my certificates: 
+List of my certificates:
+------------------------
 
 _* click on a badge for more info_
 
