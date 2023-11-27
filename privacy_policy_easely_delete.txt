@@ -1,0 +1,40 @@
+Account Deletion Procedure
+
+
+
+Introduction
+This guide outlines the steps to delete your user profile within our application. Deleting your profile is a straightforward process that you can initiate directly from the app.
+
+
+
+Before You Begin
+Before you proceed with deleting your profile, please be aware of the following:
+
+Data Removal: Deleting your profile will permanently remove all associated data. This action is irreversible.
+
+Logged in: Ensure that you are logged into the app with the account you wish to delete.
+
+
+
+Deleting Your Profile
+Follow these steps to delete your user profile:
+
+Open the App: Launch the application on your device.
+
+Navigate to Your Profile: Find and tap on the profile icon on the navigation bar to navigate to the "Profile" section within the app.
+
+Initiate Deletion: Within the profile page, you should find an red button  to "Delete Profile". Tap on this option to begin the account deletion process.
+
+Confirmation: The app may ask you to confirm your decision to delete your profile. Confirm by tapping "YES".
+
+Processing: The app will process your request, and within a short period, your profile and associated data will be permanently deleted.
+
+
+
+Additional Information
+
+Recovery: Once you delete your profile, recovery is not possible. Ensure you genuinely want to proceed with the deletion.
+
+Contact developer: If you encounter any issues or have questions regarding the account deletion process, please contact me and I will delete your profile manually. My email is available on the Google Play store page of this app.
+
+By following these steps, you can easily delete your user profile within the app. If you have any concerns or need further assistance, don't hesitate to reach out.
