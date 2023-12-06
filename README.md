@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Java, Flutter, Networks and Security
 
 
-Flutter projects : <!-- omit in toc -->
+Flutter projects (available on Google Play) : <!-- omit in toc -->
 ---------------------------------------
+
+### [Quizz_app: a multi-platform art quiz app created with Firebase integration](https://github.com/groznee/quizz_app)
 
 ### [Ducksaver: a multi-platform game built in Flame](https://github.com/groznee/ducksaver)
 
