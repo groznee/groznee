@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning Java, Flutter, Networks and Security
 
 
-Flutter projects (available on Google Play) : <!-- omit in toc -->
+My Flutter projects (available on Google Play) : <!-- omit in toc -->
 ---------------------------------------
 
 ### [Quizz_app: a multi-platform art quiz app created with Firebase integration](https://github.com/groznee/quizz_app)
 
 ### [Ducksaver: a multi-platform game built in the Flame engine](https://github.com/groznee/ducksaver)
 
-Java coding exercise: Oracle 1Z0-809 Java SE 8 Programmer II : <!-- omit in toc -->
+Java coding exercises: Oracle 1Z0-809 Java SE 8 Programmer II : <!-- omit in toc -->
 -----------------------------------------------------------------------------------
 
 ### [Streams, functional interfaces, lambda expressions and Callables](java_se8_streams_demo.java)  
