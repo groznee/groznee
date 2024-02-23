@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @groznee
 - 👀 I’m interested in coding and computer science
-- 🌱 I’m currently learning Java, Flutter, Networks and Security
+- 🌱 I’m currently learning Flutter, Python and CyberSecurity
 
 
 My Flutter projects (available on Google Play) : <!-- omit in toc -->
@@ -35,9 +35,9 @@ _* click on a badge for more info_
 | _Java SE 8 Programmer II_ | _Java SE 8 Programmer I_ | _Java Foundations_ |
 
 
-| [![MTA: Networking Fundamentals - Certified 2021](https://images.credly.com/size/130x130/images/2feaf613-be86-4d79-9cf8-c7aef82031c7/MTA-Networking_Fundamentals-600x600.png)](http://www.credly.com/badges/1de9dd8b-8ff3-4af3-b310-ac2704370e2d "MTA: Networking Fundamentals - Certified 2021") | [![MTA: Database Fundamentals - Certified 2021](https://images.credly.com/size/130x130/images/bcce29de-388a-421e-aa4e-49d08e5f6b8c/MTA-Database_Fundamentals-600x600.png)](http://www.credly.com/badges/0cfeef31-ae1a-4da9-b41b-6c433463068c "MTA: Database Fundamentals - Certified 2021") | [![MTA: Introduction to Programming Using Python - Certified 2021](https://images.credly.com/size/130x130/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png)](http://www.credly.com/badges/178d1cb9-88a7-47dc-9c92-fd20475d6298 "MTA: Introduction to Programming Using Python - Certified 2021") |
-| :---: | :---: | :---: |
-| _Networking Fundamentals_ | _Database Fundamentals_ |  _Introduction to <br/> Programming <br/> Using Python_ |
+| [![MTA: Networking Fundamentals - Certified 2021](https://images.credly.com/size/130x130/images/2feaf613-be86-4d79-9cf8-c7aef82031c7/MTA-Networking_Fundamentals-600x600.png)](http://www.credly.com/badges/1de9dd8b-8ff3-4af3-b310-ac2704370e2d "MTA: Networking Fundamentals - Certified 2021") | [![MTA: Database Fundamentals - Certified 2021](https://images.credly.com/size/130x130/images/bcce29de-388a-421e-aa4e-49d08e5f6b8c/MTA-Database_Fundamentals-600x600.png)](http://www.credly.com/badges/0cfeef31-ae1a-4da9-b41b-6c433463068c "MTA: Database Fundamentals - Certified 2021") | [![MTA: Introduction to Programming Using Python - Certified 2021](https://images.credly.com/size/130x130/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png)](http://www.credly.com/badges/178d1cb9-88a7-47dc-9c92-fd20475d6298 "MTA: Introduction to Programming Using Python - Certified 2021") | [![Microsoft Certified: Azure Fundamentals - Certified 2024](https://images.credly.com/size/130x130/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/5751fa42-9847-46d8-a2f5-e9aff8497bf5/public_url "Microsoft Certified: Azure Fundamentals  - Certified 2024") |
+| :---: | :---: | :---: | :---: |
+| _Networking Fundamentals_ | _Database Fundamentals_ |  _Programming Using Python_ | _Azure Fundamentals_ |
 
 
 
